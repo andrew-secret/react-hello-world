@@ -1,0 +1,26 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "react": "^15.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-secret/react-hello-world.git"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-secret/react-hello-world/issues"
+  },
+  "homepage": "https://github.com/andrew-secret/react-hello-world#readme"
+}
